@@ -22,3 +22,5 @@ for (var n of fibonacci) {
   if (n > 1000) break;
   console.log(n);
 }
+
+console.log("I really hope that this works");
